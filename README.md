@@ -18,4 +18,4 @@
 🔗 MoonSong Ai 프로젝트에 기여하고 싶으시다면, GitHub에서 이슈를 등록하거나 Pull Request를 보내주세요. 귀하의 창의적인 아이디어와 코드는 항상 환영입니다!
 
 ---
-📬 문의사항이 있으시면 [여기](moonsongai@gmail.com)로 연락 주세요.
+📬 문의사항이 있으시면 [moonsongai@gmail.com](mailto:moonsongai@gmail.com)로 연락 주세요.
